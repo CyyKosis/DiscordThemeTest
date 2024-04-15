@@ -1,7 +1,7 @@
 /**
     Setup
 **/
-/*
+
 .content-2hZxGK.thin_b1c063.scrollerBase-_bVAAt {
     padding-right: 36px !important;
 }
@@ -164,7 +164,7 @@ code {
 /**
     Toasts
 **/
-/*
+
 .toast-q3Y4wI {
     background: var(--background-floating);
     padding: 14px 16px;
@@ -200,7 +200,7 @@ code {
 /**
     Switches.
 **/
-/*
+
 .container__2ed72 {
     border-radius: 50px;
     border: 3px solid transparent;
@@ -245,7 +245,7 @@ code {
 /**
     Layout 
 **/
-/*
+
 .title_d4ba1a {
     background: var(--04dp) !important;
 }
@@ -283,7 +283,7 @@ code {
 /**
     Elevation 
 **/
-/*
+
 .containerCard__95c7a,
 .container__55cc1 {
     box-shadow: var(--04dpShadow);
@@ -406,7 +406,7 @@ button.lookFilled-yCfaCM {
 /** 
     Messages
 **/
-/*
+
 .message_ccca67 {
     transition: all 0.1s ease-in !important;
 }
@@ -474,7 +474,7 @@ button.lookFilled-yCfaCM {
 /**
     Menus 
 **/
-/*
+
 .label-2gNW3x {
     padding-block: 6px;
 }
@@ -540,7 +540,7 @@ pre code {
 /**
     Datepicker
 **/
-/*
+
 .calendarPicker__47c85 .react-datepicker {
     background-color: var(--background-floating);
 }
@@ -559,7 +559,7 @@ pre code {
 /**
     FAB
 **/
-/*
+
 @keyframes fabIn {
     from {
         opacity: 0;
@@ -618,7 +618,7 @@ pre code {
 /**
     Tooltips
 **/
-/*
+
 .tooltipRight-2TSb42 {
     left: -12px !important;
 }
@@ -634,7 +634,7 @@ pre code {
 /**
     Nitro Page
 **/
-/*
+
 #app-mount .perksModal-CLcR1c {
     background-image: none;
 }
@@ -689,7 +689,7 @@ pre code {
 /**
     Buttons
 **/
-/*
+
 .button__581d0:not(.toolbar__894c6 button, .wrapper__4d4fe button) {
     padding: 6px 12px;
     border-radius: 50px;
@@ -769,7 +769,7 @@ button.colorRed-rQXKgM:not(.footer-31IekZ .button__581d0, .lookFilled-yCfaCM):ho
 /**
     Dialogs
 **/
-/*
+
 .root_a28985 > div > div[style^="position: relative; overflow: hidden;"] {
     right: 36px;
 }
@@ -853,7 +853,7 @@ button.colorRed-rQXKgM:not(.footer-31IekZ .button__581d0, .lookFilled-yCfaCM):ho
 /** 
     Navigation 
 **/
-/*
+
 .wrapper__8436d.selected_ae80f7 .childWrapper_a6ce15,
 .wrapper__8436d:hover .childWrapper_a6ce15 {
     background-color: var(--brand-experiment-20a);
@@ -945,7 +945,7 @@ button.colorRed-rQXKgM:not(.footer-31IekZ .button__581d0, .lookFilled-yCfaCM):ho
 **/
 
 /* Channels */
-/*
+
 .content-2a4AW9 .iconContainer__6a580 svg {
     width: 15px;
     height: 15px;
