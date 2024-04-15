@@ -689,7 +689,7 @@ pre code {
 /**
     Buttons
 **/
-/*
+
 .button__581d0:not(.toolbar__894c6 button, .wrapper__4d4fe button) {
     padding: 6px 12px;
     border-radius: 50px;
@@ -765,7 +765,7 @@ button.colorRed-rQXKgM:not(.footer-31IekZ .button__581d0, .lookFilled-yCfaCM):ho
 .userPopout-2j1gM4 button.lookFilled-yCfaCM:not(.toolbar__894c6 button, .focusLock-2tveLW button, .wrapper__4d4fe button) {
     background: var(--26dp) !important;
 }
-*/
+
 /**
     Dialogs
 **/
@@ -945,6 +945,7 @@ button.colorRed-rQXKgM:not(.footer-31IekZ .button__581d0, .lookFilled-yCfaCM):ho
 **/
 
 /* Channels */
+/*
 .content-2a4AW9 .iconContainer__6a580 svg {
     width: 15px;
     height: 15px;
@@ -999,7 +1000,7 @@ button.colorRed-rQXKgM:not(.footer-31IekZ .button__581d0, .lookFilled-yCfaCM):ho
 [data-list-item-id*="upcoming-events"] .iconContainer__6a580 path {
     d: path("M17 12h-5v5h5v-5zM16 1v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2h-1V1h-2zm3 18H5V8h14v11z") !important;
 }
-
+*/
 /* UserArea */
 .container_debb33 .button__581d0[aria-label="Mute"] path {
     d: path("M12 14c1.66 0 2.99-1.34 2.99-3L15 5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zm5.3-3c0 3-2.54 5.1-5.3 5.1S6.7 14 6.7 11H5c0 3.41 2.72 6.23 6 6.72V21h2v-3.28c3.28-.48 6-3.3 6-6.72h-1.7z") !important;
