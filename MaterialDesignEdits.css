@@ -200,7 +200,7 @@ code {
 /**
     Switches.
 **/
-/*
+
 .container__2ed72 {
     border-radius: 50px;
     border: 3px solid transparent;
@@ -241,7 +241,7 @@ code {
     width: 40px;
     height: 20px;
 }
-*/
+
 /**
     Layout 
 **/
@@ -689,7 +689,7 @@ pre code {
 /**
     Buttons
 **/
-
+/*
 .button__581d0:not(.toolbar__894c6 button, .wrapper__4d4fe button) {
     padding: 6px 12px;
     border-radius: 50px;
@@ -765,7 +765,7 @@ button.colorRed-rQXKgM:not(.footer-31IekZ .button__581d0, .lookFilled-yCfaCM):ho
 .userPopout-2j1gM4 button.lookFilled-yCfaCM:not(.toolbar__894c6 button, .focusLock-2tveLW button, .wrapper__4d4fe button) {
     background: var(--26dp) !important;
 }
-
+*/
 /**
     Dialogs
 **/
